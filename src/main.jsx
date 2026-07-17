@@ -155,9 +155,9 @@ function App() {
             testing, and practical software engineering collaboration.
           </p>
         </div>
-        <a className="contactButton" href="https://tigao123.com" target="_blank" rel="noreferrer">
+        <a className="contactButton" href="mailto:jerryshi68@gmail.com">
           <Mail size={18} aria-hidden="true" />
-          Contact via studio
+          Contact via email
         </a>
       </section>
     </main>
